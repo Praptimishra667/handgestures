@@ -17,17 +17,24 @@ This repository includes:
 
 ## 🎥 Demo Videos
 
-1. **Air Canvas Drawing**  
-   [▶️ Watch Demo](https://github.com/user-attachments/assets/ec2f1d5e-dbbd-40b4-a29f-3a1fe3fd9455)
+
 
 2. **Gesture-Controlled Calculator**  
    [▶️ Watch Demo](https://github.com/user-attachments/assets/991644ca-d725-400a-bb06-19a64c377e8a)
 
 3. **Rock Paper Scissors (Hand Gesture Game)**  
-   [▶️ Watch Demo](https://github.com/user-attachments/assets/7b3c5d91-6257-43b0-b14f-56dfb5a0f203)
+   [▶️ Watch Demo](
 
-4. **Virtual Switches & Volume Control**  
-   [▶️ Watch Demo](https://github.com/user-attachments/assets/97d80d16-ec9c-4b85-b050-7da51957dff9)
+https://github.com/user-attachments/assets/accdc551-127c-4d1d-b167-e811bc7e4aa5
+
+)
+
+4. **Virtual Switches**  
+   [▶️ Watch Demo](https://github.com/user-attachments/assets/277e2f12-25af-4cea-8da8-173ba04fbd7a
+)
+
+
+
 
 ---
 
