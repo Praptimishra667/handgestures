@@ -16,13 +16,30 @@ This repository includes:
 ---
 
 ## 🎥 Demo Videos
+1.2. **Volume Controller**  
+   [▶️ Watch Demo](
 
 
 
-2. **Gesture-Controlled Calculator**  
-   [▶️ Watch Demo](https://github.com/user-attachments/assets/991644ca-d725-400a-bb06-19a64c377e8a)
+https://github.com/user-attachments/assets/a46b129a-9142-41b7-9bf7-b8d418a596e1
 
-3. **Rock Paper Scissors (Hand Gesture Game)**  
+
+
+
+  )
+
+
+
+2. **Iris-Controlled Calculator**  
+   [▶️ Watch Demo](
+
+
+https://github.com/user-attachments/assets/4778c798-bec1-4150-93a1-1810a7091e2d
+
+
+  )
+
+4. **Rock Paper Scissors (Hand Gesture Game)**  
    [▶️ Watch Demo](
 
 https://github.com/user-attachments/assets/accdc551-127c-4d1d-b167-e811bc7e4aa5
@@ -30,7 +47,10 @@ https://github.com/user-attachments/assets/accdc551-127c-4d1d-b167-e811bc7e4aa5
 )
 
 4. **Virtual Switches**  
-   [▶️ Watch Demo](https://github.com/user-attachments/assets/277e2f12-25af-4cea-8da8-173ba04fbd7a
+   [▶️ Watch Demo](
+
+   https://github.com/user-attachments/assets/277e2f12-25af-4cea-8da8-173ba04fbd7a
+
 )
 
 
