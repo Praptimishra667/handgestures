@@ -1,14 +1,13 @@
 # handgestures
 
-A suite of five real-time hand gesture recognition projects, independently developed and maintained by **Prapti Mishra**.
+A suite of four real-time hand gesture recognition projects, independently developed and maintained by **Prapti Mishra**.
 
 ---
 
 ## 🎯 Overview
 
 This repository includes:
-- ✍️ **Air Canvas Drawing Tool**  
-- 🧮 **Gesture-Controlled Calculator**  
+- 🧮 **Iris-Controlled Calculator**  
 - ✊✋✌️ **Rock-Paper-Scissors Game**  
 - 🔊 **Volume Control using Finger Distance**  
 - 💡 **Virtual Switch Panel using Finger Hovering**
