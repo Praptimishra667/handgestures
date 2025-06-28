@@ -89,7 +89,6 @@ This project is licensed under the **MIT License** — you are free to use, shar
 ### 👩‍💻🧠 Crafted with vision and code by  
 **Prapti Mishra** — blending intuition with innovation  
 📬 [praptimishra977@gmail.com](mailto:praptimishra977@gmail.com)  
-🌐 [GitHub Profile](https://github.com/praptimishra977)
 
 > Turning gestures into actions — one frame at a time 🤖✨
 
