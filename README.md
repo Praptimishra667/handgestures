@@ -62,7 +62,7 @@ https://github.com/user-attachments/assets/accdc551-127c-4d1d-b167-e811bc7e4aa5
 
 | File              | Description                               |
 |-------------------|-------------------------------------------|
-| `Mycalculator.py` | Gaze/gesture-based calculator              |
+| `Mycalculator.py` | Gaze/gesture-based calculator using my eye            |
 | `rockpaper.py`    | Rock-Paper-Scissors hand gesture game      |
 | `switches.py`     | Finger hover switch control system         |
 | `volumecontrol.py`| Volume control using finger distance       |
@@ -86,6 +86,12 @@ This project is licensed under the **MIT License** — you are free to use, shar
 
 ---
 
-### 👩‍💻 Made by [Prapti Mishra](mailto:praptimishra977@gmail.com)
+
+### 👩‍💻🧠 Crafted with vision and code by  
+**Prapti Mishra** — blending intuition with innovation  
+📬 [praptimishra977@gmail.com](mailto:praptimishra977@gmail.com)  
+🌐 [GitHub Profile](https://github.com/praptimishra977)
+
+> Turning gestures into actions — one frame at a time 🤖✨
 
 > Passionate about real-time computer vision and gesture-based interactions 💡✨
